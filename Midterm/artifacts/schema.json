@@ -1,0 +1,11 @@
+{
+  "text_mode": false,
+  "label_col": "is_spam",
+  "feature_columns": [
+    "words",
+    "links",
+    "capital_words",
+    "spam_word_count"
+  ],
+  "vectorizer_present": false
+}
